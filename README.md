@@ -1,7 +1,7 @@
-
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://Rosh-21-Baldy.io)
 <h1 align="center">Hi 👋, I'm Roshan</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align ="right" alt ="coding" width ="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"
+<img align ="right" alt ="coding" width ="400" src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRzNWNxZ2F0OXF1MW5iczBpeTc5YzNlbXF5czJkcWdhM21lNjJ1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosh-21-baldy&label=Profile%20views&color=0e75b6&style=flat" alt="rosh-21-baldy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/roshanrajput001" target="blank"><img src="https://img.shields.io/twitter/follow/roshanrajput001?logo=twitter&style=for-the-badge" alt="roshanrajput001" /></a> </p>
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rajputrosh780@gmail.com**
 
-- ⚡ Fun fact **i am funny**
+- ⚡ Fun fact **i am Good in Acting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
